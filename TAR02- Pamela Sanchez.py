@@ -13,13 +13,14 @@ numero2 = int(input("Introduzca un digito: "))
 # Se hacen las declaraciones de las operacion matematicas 
 potencia1 = numero1**2
 potencia2 = numero2**2
-suma_de_potencia = potencia1 + potencia2
+Suma_de_potencia = potencia1 + potencia2
 
 # Ya aqui vemos el resultado de la operacion
 print ("Numero 1 al cuadro es ", potencia1 )
 print ("Numero 2 al cuadro es ", potencia2 )
-print (" El resultado de la suma es ", suma_de_potencia )
-print ("Raiz cuadrada: ", math.sqrt(suma_de_potencia))
+print (" El resultado de la suma es ", Suma_de_potencia )
+print ("Raiz cuadrada: ", math.sqrt(Suma_de_potencia))
+
 
 
 
