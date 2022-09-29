@@ -3,6 +3,7 @@
 # El monto del préstamo debe ser solicitado.
 # Se debe solicitar la cantidad mensual que se desea pagar.
 # Mediante el uso de while, determinar los meses (total) en los que se completará el pago del préstamo.
+# Pamela Sanchez 21-1727
 
 from email import message
 
