@@ -16,7 +16,7 @@ for n in range(6):
 #se pone la lista organizada
 ticket_loteria.sort()  
 
-#se imprimen los numeros en orden ascendente
+#se imprimen los numeros en orden ascendente   
 print("Su ticket de loteria ordenado es ", ticket_loteria)  
    
     
