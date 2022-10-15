@@ -18,4 +18,4 @@ elif operacion == "resta":
         print("Resultado de la resta: ",num1-num2)
 
 elif operacion == "multiplicacion":
-     print("Resultado de la division: ",num1*num2)
+     print("Resultado de la multiplicacion: ",num1*num2)
