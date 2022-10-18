@@ -42,7 +42,7 @@ convertir02 = set(lista02)
 # Pongo una variable con el nombre cualquiera para poder hacer la interseccion con ambas listas
 interseccion = convertir01.intersection(convertir02)
 
-print ("--------------------------------------------------------------------")
+print ("\n" "*********************************************************************" "\n")
 
 # aqui utilizo el if y el else para que me imprima cuando un producto se repite o cuando un producto no se repite en las listas.
 if len(interseccion) == 0:
@@ -50,6 +50,6 @@ if len(interseccion) == 0:
 else:
     print("Los productos que se repiten son: " + str(interseccion))
 
-
-    print("Hasta aqui llega mi programa, gracias por utilizarlo :)")
+print("\n""*********************************************************************""\n")
+print("Hasta aqui llega mi programa, gracias por utilizarlo :)")
 
